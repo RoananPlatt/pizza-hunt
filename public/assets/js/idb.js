@@ -79,7 +79,7 @@ getAll.onsuccess = function() {
             console.log(err);
         });
     }
-};
+    };
 }
 
 window.addEventListener('online', uploadPizza);
